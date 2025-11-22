@@ -357,9 +357,7 @@ export default function Index() {
                   <Icon name="Banknote" className="text-primary mt-1" size={20} />
                   <div>
                     <h4 className="font-semibold mb-1">Стоимость</h4>
-                    <p className="text-muted-foreground">
-                      Бесплатно при заказе от 1000 ₽. До 1000 ₽ — 200 ₽
-                    </p>
+                    <p className="text-muted-foreground">Бесплатно при заказе от 500 ₽.</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
