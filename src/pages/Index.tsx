@@ -387,9 +387,7 @@ export default function Index() {
                   <Icon name="Phone" className="text-primary mt-1" size={24} />
                   <div>
                     <h4 className="font-semibold mb-1">Телефон</h4>
-                    <a href="tel:+79001234567" className="text-lg text-primary hover:underline">
-                      +7 (900) 123-45-67
-                    </a>
+                    <a href="tel:+79001234567" className="text-lg text-primary hover:underline">+7(999)6528355</a>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
