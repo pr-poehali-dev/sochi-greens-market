@@ -412,7 +412,9 @@ export default function Index() {
                     <h4 className="font-semibold mb-1">Мессенджеры</h4>
                     <div className="flex gap-3 mt-2">
                       <Button variant="outline" size="sm">WhatsApp</Button>
-                      <Button variant="outline" size="sm">Telegram</Button>
+                      <Button variant="outline" size="sm" asChild>
+                        <a href="https://t.me/rasada193_bot" target="_blank" rel="noopener noreferrer">Telegram</a>
+                      </Button>
                     </div>
                   </div>
                 </div>
