@@ -221,9 +221,7 @@ export default function Index() {
                         <span className="text-lg font-semibold">Итого:</span>
                         <span className="text-2xl font-bold text-primary">{total} ₽</span>
                       </div>
-                      <Button className="w-full" size="lg">
-                        Оформить заказ
-                      </Button>
+                      <Button className="w-full" size="lg">Оформить заказ  сделай гипер сылку на тг https://t.me/rasada193_bot</Button>
                     </div>
                   </>
                 )}
