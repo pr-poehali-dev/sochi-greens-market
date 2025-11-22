@@ -405,10 +405,7 @@ export default function Index() {
                   <Icon name="MapPin" className="text-primary mt-1" size={24} />
                   <div>
                     <h4 className="font-semibold mb-1">Адрес</h4>
-                    <p className="text-muted-foreground">
-                      г. Сочи, ул. Садовая, 15<br />
-                      Ежедневно с 8:00 до 21:00
-                    </p>
+                    <p className="text-muted-foreground">г.сочи Тепличная 75.1 </p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
