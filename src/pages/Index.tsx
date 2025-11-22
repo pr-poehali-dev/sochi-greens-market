@@ -341,9 +341,7 @@ export default function Index() {
                   <Icon name="MapPin" className="text-primary mt-1" size={20} />
                   <div>
                     <h4 className="font-semibold mb-1">Зона доставки</h4>
-                    <p className="text-muted-foreground">
-                      Доставляем по всему Сочи и ближайшим районам
-                    </p>
+                    <p className="text-muted-foreground">Доставляем по всему раздольному </p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
@@ -412,9 +410,7 @@ export default function Index() {
                     <h4 className="font-semibold mb-1">Мессенджеры</h4>
                     <div className="flex gap-3 mt-2">
                       <Button variant="outline" size="sm">WhatsApp</Button>
-                      <Button variant="outline" size="sm" asChild>
-                        <a href="https://t.me/rasada193_bot" target="_blank" rel="noopener noreferrer">Telegram</a>
-                      </Button>
+                      <Button variant="outline" size="sm" asChild>Telegram </Button>
                     </div>
                   </div>
                 </div>
